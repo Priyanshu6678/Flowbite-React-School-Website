@@ -20,21 +20,19 @@ function NavList() {
           <NavbarToggle />
         </div>
         <NavbarCollapse>
-          <NavbarLink as={NavLink} to="/" href="#" activeClassName="active"> {/* Fixed typo in activeClassName */}
+          <NavbarLink as={NavLink} to="/" href="#" activeclassname="active"> {/* Fixed typo in activeClassName */}
             Home
           </NavbarLink>
-          <NavbarLink as={NavLink} to="/about" href="#" activeClassName="active">
+          <NavbarLink as={NavLink} to="/about" href="#" activeclassname="active">
             About
           </NavbarLink>
-          <NavbarLink as={NavLink} to="/academics" href="#" activeClassName="active">
+          <NavbarLink as={NavLink} to="/academics" href="#" activeclassname="active">
             Academics
           </NavbarLink>
-          <NavbarLink as={NavLink} to="/gallery" href="#" activeClassName="active">
+          <NavbarLink as={NavLink} to="/gallery" href="#" activeclassname="active">
             Gallery
           </NavbarLink>
-          <NavbarLink as={NavLink} to="/contact" href="#" activeClassName="active">
-            Contact
-          </NavbarLink>
+          
         </NavbarCollapse>
       </Navbar>
     </div>
