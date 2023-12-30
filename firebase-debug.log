@@ -1,0 +1,32 @@
+[debug] [2023-12-30T11:26:45.988Z] ----------------------------------------------------------------------
+[debug] [2023-12-30T11:26:45.992Z] Command:       /nix/store/mih3j0yxng0xsad55787jqfbyi53rp0j-nodejs-20.10.0/bin/node /home/runner/SchoolWebsiteFlowbiteReact/.config/npm/node_global/bin/firebase login
+[debug] [2023-12-30T11:26:45.993Z] CLI Version:   13.0.2
+[debug] [2023-12-30T11:26:45.994Z] Platform:      linux
+[debug] [2023-12-30T11:26:45.994Z] Node Version:  v20.10.0
+[debug] [2023-12-30T11:26:45.994Z] Time:          Sat Dec 30 2023 11:26:45 GMT+0000 (Coordinated Universal Time)
+[debug] [2023-12-30T11:26:45.994Z] ----------------------------------------------------------------------
+[debug] 
+[info] i  Firebase optionally collects CLI and Emulator Suite usage and error reporting information to help improve our products. Data is collected in accordance with Google's privacy policy (https://policies.google.com/privacy) and is not used to identify you.
+ 
+[info] i  To change your data collection preference at any time, run `firebase logout` and log in again. 
+[info] 
+[info] Visit this URL on this device to log in:
+[info] https://accounts.google.com/o/oauth2/auth?client_id=563584335869-fgrhgmd47bqnekij5i8b5pr03ho849e6.apps.googleusercontent.com&scope=email%20openid%20https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fcloudplatformprojects.readonly%20https%3A%2F%2Fwww.googleapis.com%2Fauth%2Ffirebase%20https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fcloud-platform&response_type=code&state=863339830&redirect_uri=http%3A%2F%2Flocalhost%3A9005
+[info] 
+[info] Waiting for authentication...
+[debug] [2023-12-30T11:33:00.685Z] ----------------------------------------------------------------------
+[debug] [2023-12-30T11:33:00.688Z] Command:       /nix/store/mih3j0yxng0xsad55787jqfbyi53rp0j-nodejs-20.10.0/bin/node /home/runner/SchoolWebsiteFlowbiteReact/.config/npm/node_global/bin/firebase login
+[debug] [2023-12-30T11:33:00.689Z] CLI Version:   13.0.2
+[debug] [2023-12-30T11:33:00.689Z] Platform:      linux
+[debug] [2023-12-30T11:33:00.689Z] Node Version:  v20.10.0
+[debug] [2023-12-30T11:33:00.690Z] Time:          Sat Dec 30 2023 11:33:00 GMT+0000 (Coordinated Universal Time)
+[debug] [2023-12-30T11:33:00.690Z] ----------------------------------------------------------------------
+[debug] 
+[info] i  Firebase optionally collects CLI and Emulator Suite usage and error reporting information to help improve our products. Data is collected in accordance with Google's privacy policy (https://policies.google.com/privacy) and is not used to identify you.
+ 
+[info] i  To change your data collection preference at any time, run `firebase logout` and log in again. 
+[info] 
+[info] Visit this URL on this device to log in:
+[info] https://accounts.google.com/o/oauth2/auth?client_id=563584335869-fgrhgmd47bqnekij5i8b5pr03ho849e6.apps.googleusercontent.com&scope=email%20openid%20https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fcloudplatformprojects.readonly%20https%3A%2F%2Fwww.googleapis.com%2Fauth%2Ffirebase%20https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fcloud-platform&response_type=code&state=1054134552&redirect_uri=http%3A%2F%2Flocalhost%3A9005
+[info] 
+[info] Waiting for authentication...
